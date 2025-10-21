@@ -1,6 +1,4 @@
 # Atelier 1 : Cadrage et socle de sécurité  
-Analyse de risques selon la méthode **EBIOS Risk Manager**
-
 ## 1. Périmètre et mission
 
 L’analyse couvre l’ensemble du système d’information de **DataSecuRetail**, PME de e-commerce spécialisée dans la vente d’objets technologiques via son site marchand.  
